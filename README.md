@@ -1,2 +1,13 @@
-# Generative-Interior-Design
-This project aims to leverage the power of AI and to supply innovative and creative tools to designers, where the algorithms will turn images of empty rooms into fully furnished spaces guided by text descriptions. 
+---
+title: StableDesign
+emoji: 🏆
+colorFrom: yellow
+colorTo: gray
+sdk: gradio
+sdk_version: 4.26.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
