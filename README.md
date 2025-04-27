@@ -1,3 +1,5 @@
+### Project was created by Liu Zhuoxin, Du Lei, Sun Che, Huang Ruolin and scientific adviser Petrosian Ovanes from Saint Petersburg State University, Russia.
+
 # Generative Interior Design
 
 ## 🎯 Objective
