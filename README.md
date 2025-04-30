@@ -1,4 +1,9 @@
 ### Project was created by Liu Zhuoxin, Du Lei, Sun Che, Huang Ruolin and scientific adviser Petrosian Ovanes from Saint Petersburg State University, Russia.
+### https://github.com/erwruitytyyrew
+### https://github.com/DuLei12345
+### https://github.com/Che0206
+### https://github.com/PetrosianOL
+
 ### We got a better results than the Top 2 team in the competition https://www.aicrowd.com/challenges/generative-interior-design-challenge-2024. So we think we can get the Top 1 position in this competition. But due to the late submission, we cannot participate in it.
 
 # Generative Interior Design
