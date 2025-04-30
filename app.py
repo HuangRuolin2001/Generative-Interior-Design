@@ -310,7 +310,7 @@ def create_demo(model):
                 strength = gr.Slider(label='Strength',
                                      minimum=0.1,
                                      maximum=1.0,
-                                     value=0.9,
+                                     value=0.8,
                                      step=0.1)
                 a_prompt = gr.Textbox(
                     label='Added Prompt',
