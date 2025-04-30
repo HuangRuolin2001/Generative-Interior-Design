@@ -289,7 +289,7 @@ def create_demo(model):
                 num_steps = gr.Slider(label='Steps',
                                       minimum=1,
                                       maximum=50,
-                                      value=20,
+                                      value=50,
                                       step=1)
                 img_size = gr.Slider(label='Image size',
                                      minimum=256,
